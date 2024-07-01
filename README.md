@@ -1,5 +1,5 @@
 # Database-Migration-on-prim-to-Azure-SQL-Project
-Azure SQL Service-PAAS //Migrate DB from on-prim to azure- SQL from IAAS to PAAS using MS DMA App.
+Azure SQL Service-PAAS //How to migrate DB from on-prim to azure- SQL from IAAS to PAAS using MS DMA App.
 
 IAAS:
 I have created Databse Migration Project.In that I have deployed SQL server databse on virtual machine and created below two databases.
